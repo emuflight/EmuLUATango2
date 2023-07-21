@@ -1,4 +1,6 @@
-# EmuluaTango2
+# broken / not updated, please do not use
+
+## EmuluaTango2
 lua script for Tango2
 
 * credit to Shikijo Petrosk for EmuFlight modifications
